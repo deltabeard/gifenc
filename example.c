@@ -1,7 +1,6 @@
 #include "gifenc.h"
 
-int
-main()
+int main(void)
 {
     int i, j;
     int w = 120, h = 90;
